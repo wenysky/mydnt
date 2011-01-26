@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{329C1477-952E-41FF-959F-3B77053E93B1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Discuz.EntLib.MongoDB</RootNamespace>
+    <AssemblyName>Discuz.EntLib.MongoDB</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\AttachFiles.cs" />
+    <Compile Include="Data\Attachments.cs" />
+    <Compile Include="Data\OnlineUsers.cs" />
+    <Compile Include="Data\Posts.cs" />
+    <Compile Include="Data\Topics.cs" />
+    <Compile Include="Data\Users.cs" />
+    <Compile Include="Entity\TopicInfo.cs" />
+    <Compile Include="MongoDbHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Discuz.Cache\Discuz.Cache.csproj">
+      <Project>{DEC263A7-C844-46A2-B143-91FE1B3A3851}</Project>
+      <Name>Discuz.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Discuz.Common\Discuz.Common.csproj">
+      <Project>{6A0EC5BD-742F-431D-A9EC-5C0342B2A76A}</Project>
+      <Name>Discuz.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Discuz.Config\Discuz.Config.csproj">
+      <Project>{F6A5F6C1-BD11-441D-B956-3BF52AEED890}</Project>
+      <Name>Discuz.Config</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Discuz.Data\Discuz.Data.csproj">
+      <Project>{CAA860C2-28D3-4D1B-8D7B-3A83C94DAA65}</Project>
+      <Name>Discuz.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Discuz.Entity\Discuz.Entity.csproj">
+      <Project>{41156C65-96B0-4026-A4FF-94CC299ABCAB}</Project>
+      <Name>Discuz.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MongoDB.GridFS\MongoDB.GridFS.csproj">
+      <Project>{B42DBBF9-0A1F-4749-9787-013BF8D8F435}</Project>
+      <Name>MongoDB.GridFS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MongoDBDriver\MongoDB.csproj">
+      <Project>{B125BBA6-BFFD-44FA-9254-9B1754CD8AF3}</Project>
+      <Name>MongoDB</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

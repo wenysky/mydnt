@@ -1,0 +1,89 @@
+﻿用户管理 http://hi.baidu.com/colorsight/blog/item/c831b78e93e6a9f7513d922f.html  http://blog.163.com/sky20081816@126/blog/static/16476102320107173226920/
+
+1.添加用户
+# rabbitmqctl add_user username password
+
+2.删除用户
+# rabbitmqctl delete_user username
+
+3.修改密码
+# rabbitmqctl change_password username newpassword
+
+4.列出所有用户
+# rabbitmqctl list_users
+
+
+
+权限控制
+1.创建虚拟主机
+# rabbitmqctl add_vhost vhostpath
+
+2.删除虚拟主机
+# rabbitmqctl delete_vhost vhostpath
+
+3.列出所有虚拟主机
+# rabbitmqctl list_vhosts
+
+
+4.设置用户权限
+# rabbitmqctl set_permissions [-p vhostpath] username regexp regexp regexp  //rabbitmqctl set_permissions -p dnt_mq daizhj ".*" ".*" ".*" 如此用户名为daizhj的用户就可以访问vitrual host为/的资源了，并且具备读写的权限。
+
+5.清除用户权限
+# rabbitmqctl clear_permissions [-p vhostpath] username
+
+6.列出虚拟主机上的所有权限
+# rabbitmqctl list_permissions [-p vhostpath]
+
+7.列出用户权限
+# rabbitmqctl list_user_permissions username
+
+
+应用和集群管理
+1.停止RabbitMQ应用，关闭节点
+# rabbitmqctl stop
+
+2.停止RabbitMQ应用
+# rabbitmqctl stop_app
+
+3.启动RabbitMQ应用
+# rabbitmqctl start_app
+
+4.显示RabbitMQ中间件各种信息
+# rabbitmqctl status
+
+5.重置RabbitMQ节点
+# rabbitmqctl reset
+# rabbitmqctl force_reset
+
+从它属于的任何集群中移除，从管理数据库中移除所有数据，例如配置过的用户和虚拟宿主, 删除所有持久化的消息。
+force_reset命令和reset的区别是无条件重置节点，不管当前管理数据库状态以及集群的配置。如果数据库或者集群配置发生错误才使用这个最后 的手段。
+注意：只有在停止RabbitMQ应用后，reset和force_reset才能成功。
+
+6.循环日志文件
+# rabbitmqctl rotate_logs [suffix]
+
+7.集群管理
+# rabbitmqctl cluster clusternode …
+
+
+
+在sbin目录下命令行：
+添加用户
+D:\rabbitmq\sbin>rabbitmqctl add_user daizhj 617595
+添加创建虚拟主机
+D:\rabbitmq\sbin>rabbitmqctl add_vhost dnt_mq
+列出所有虚拟主机
+D:\rabbitmq\sbin>rabbitmqctl list_vhosts
+Listing vhosts ...
+/
+dnt_mq
+
+
+设置用户权限
+D:\rabbitmq\sbin>rabbitmqctl set_permissions -p dnt_mq daizhj ".*" ".*" ".*"
+Setting permissions for user "daizhj" in vhost "dnt_mq" ...
+
+列出用户权限：
+D:\rabbitmq\sbin>rabbitmqctl list_user_permissions daizhj
+Listing permissions for user "daizhj" ...
+dnt_mq  .*      .*      .*      client

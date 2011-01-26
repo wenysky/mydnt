@@ -1,0 +1,8 @@
+F:\DiscuzNtSvn\3\Apps\TestConsole\TestConsoleWeb\bin\TestConsoleWeb.dll
+F:\DiscuzNtSvn\3\Apps\TestConsole\TestConsoleWeb\bin\TestConsoleWeb.pdb
+F:\DiscuzNtSvn\3\Apps\TestConsole\TestConsoleWeb\bin\TestConsole.dll
+F:\DiscuzNtSvn\3\Apps\TestConsole\TestConsoleWeb\bin\Newtonsoft.Json.dll
+F:\DiscuzNtSvn\3\Apps\TestConsole\TestConsoleWeb\bin\TestConsole.pdb
+F:\DiscuzNtSvn\3\Apps\TestConsole\TestConsoleWeb\obj\Release\ResolveAssemblyReference.cache
+F:\DiscuzNtSvn\3\Apps\TestConsole\TestConsoleWeb\obj\Release\TestConsoleWeb.dll
+F:\DiscuzNtSvn\3\Apps\TestConsole\TestConsoleWeb\obj\Release\TestConsoleWeb.pdb

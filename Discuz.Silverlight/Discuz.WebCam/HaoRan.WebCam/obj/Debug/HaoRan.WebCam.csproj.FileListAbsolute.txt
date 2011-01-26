@@ -1,0 +1,237 @@
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\App.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\AdvanceMode.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\ChildWindows\CWMessageBox.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\ChildWindows\CWViewUploadedImage.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\Controls\FocusRectangle.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\Controls\ImageButton.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\Controls\InkMenu.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\MainPage.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\ImageBrowser.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\NavPage.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\WebCam.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\HaoRan.WebCam.g.resources
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\HaoRan.WebCam.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\HaoRan.WebCam.pdb
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\HaoRan.WebCam.xap
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\TestPage.html
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\System.Windows.Controls.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\System.Windows.Controls.xml
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\HaoRan.WebCam.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\HaoRan.WebCam.pdb
+C:\Documents and Settings\Administrator\桌面\WebCam\Discuz.WebCam\Discuz.WebCam\obj\Debug\XapCacheFile.xml
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\HaoRan.WebCam.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\HaoRan.WebCam.pdb
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\HaoRan.WebCam.xap
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\TestPage.html
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.xml
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\App.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\AdvanceMode.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\ChildWindows\CWMessageBox.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\ChildWindows\CWViewUploadedImage.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\Controls\FocusRectangle.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\Controls\ImageButton.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\Controls\InkMenu.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\MainPage.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\ImageBrowser.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\NavPage.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\WebCam.g.cs
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.g.resources
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.dll
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.pdb
+C:\Documents and Settings\Administrator\桌面\WebCam\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\XapCacheFile.xml
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\HaoRan.WebCam.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\HaoRan.WebCam.pdb
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\AppManifest.xaml
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\HaoRan.WebCam.xap
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\TestPage.html
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.Navigation.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.xml
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.Windows.Controls.Navigation.xml
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\ResolveAssemblyReference.cache
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\App.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\AdvanceMode.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\ChildWindows\CWMessageBox.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\ChildWindows\CWViewUploadedImage.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\Controls\FocusRectangle.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\Controls\ImageButton.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\Controls\InkMenu.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\MainPage.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\ImageBrowser.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\NavPage.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\WebCam.g.cs
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.g.resources
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.dll
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.pdb
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\XapCacheFile.xml
+D:\dnt\HaoRan.WebCam\HaoRan.WebCam\obj\Debug\Cursors\CustomCursors.g.cs
+D:\dnt\3\Discuz.Web\silverlight\Avatar\ClientBin\HaoRan.WebCam.dll
+D:\dnt\3\Discuz.Web\silverlight\Avatar\ClientBin\HaoRan.WebCam.pdb
+D:\dnt\3\Discuz.Web\silverlight\Avatar\ClientBin\AppManifest.xaml
+D:\dnt\3\Discuz.Web\silverlight\Avatar\ClientBin\TestPage.html
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\ResolveAssemblyReference.cache
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\App.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\AdvanceMode.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\ChildWindows\CWMessageBox.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\ChildWindows\CWViewUploadedImage.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\Controls\FocusRectangle.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\Controls\ImageButton.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\Controls\InkMenu.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\Cursors\CustomCursors.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\MainPage.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\ImageBrowser.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\NavPage.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\WebCam.g.cs
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.g.resources
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.dll
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.pdb
+D:\dnt\3\Discuz.Silverlight\HaoRan.WebCam\obj\Debug\XapCacheFile.xml
+D:\dnt\3\Discuz.Web\silverlight\Avatar\ClientBin\Discuz.WebCam.xap
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\ResolveAssemblyReference.cache
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\App.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\AdvanceMode.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\ChildWindows\CWMessageBox.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\ChildWindows\CWViewUploadedImage.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\Controls\FocusRectangle.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\Controls\ImageButton.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\Controls\InkMenu.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\Cursors\CustomCursors.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\MainPage.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\ImageBrowser.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\NavPage.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\WebCam.g.cs
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.g.resources
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.dll
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\HaoRan.WebCam.pdb
+D:\dnt\3\Discuz.Silverlight\Discuz.Web\silverlight\Avatar\ClientBin\HaoRan.WebCam.dll
+D:\dnt\3\Discuz.Silverlight\Discuz.Web\silverlight\Avatar\ClientBin\HaoRan.WebCam.pdb
+D:\dnt\3\Discuz.Silverlight\Discuz.Web\silverlight\Avatar\ClientBin\AppManifest.xaml
+D:\dnt\3\Discuz.Silverlight\Discuz.Web\silverlight\Avatar\ClientBin\Discuz.WebCam.xap
+D:\dnt\3\Discuz.Silverlight\Discuz.Web\silverlight\Avatar\ClientBin\TestPage.html
+D:\dnt\3\Discuz.Silverlight\Discuz.WebCam\HaoRan.WebCam\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.IO;
+using System.Web;
+
+namespace WebSampleHelper
+{
+    public class AsyncHelper
+    {
+        public static bool WriteAsyncLog(string action, string actionParams)
+        {
+            try
+            {
+                string actionString = string.Format("DataTime:{0}--Action:{1}\r\nActionParams:{2}\r\n", DateTime.Now.ToString(), action, actionParams);
+                string fileName = HttpContext.Current.Request.PhysicalApplicationPath + "\\asynclog.txt";
+                StreamWriter sw;
+                if (File.Exists(fileName))
+                    sw = File.AppendText(fileName);
+                else
+                    sw = File.CreateText(fileName);
+                sw.Write(actionString);
+                sw.Flush();
+                sw.Close();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+    }
+}

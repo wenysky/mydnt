@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{45CCC732-0238-42EA-A96B-7CEF8FD3CC13}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Discuz.EntLib</RootNamespace>
+    <AssemblyName>Discuz.EntLib</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=5.0.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSnap\RoundRobinScheduling.cs" />
+    <Compile Include="DataSnap\WeightedRoundRobinScheduling.cs" />
+    <Compile Include="Memcached\CRCTool.cs" />
+    <Compile Include="Memcached\IterIsolate.cs" />
+    <Compile Include="Memcached\KetamaHash.cs" />
+    <Compile Include="Memcached\MemCached.cs" />
+    <Compile Include="Memcached\MemCachedClient.cs" />
+    <Compile Include="Memcached\MemCachedStrategy.cs" />
+    <Compile Include="Memcached\NativeHandler.cs" />
+    <Compile Include="Memcached\NetworkStreamIgnoreSeek.cs" />
+    <Compile Include="Memcached\SockIO.cs" />
+    <Compile Include="Memcached\SockIOPool.cs" />
+    <Compile Include="SphinxClient\SphinxEnum.cs" />
+    <Compile Include="SphinxClient\SphinxSqlService.cs" />
+    <Compile Include="SphinxClient\SphinxClient.cs" />
+    <Compile Include="SphinxClient\SphinxMatch.cs" />
+    <Compile Include="SphinxClient\SphinxResult.cs" />
+    <Compile Include="SphinxClient\SphinxUtils.cs" />
+    <Compile Include="SphinxClient\SphinxWordInfo.cs" />
+    <Compile Include="SyncLocalCache\SyncCache.cs" />
+    <Compile Include="SyncLocalCache\SyncLocalCache.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Discuz.Cache\Discuz.Cache.csproj">
+      <Project>{DEC263A7-C844-46A2-B143-91FE1B3A3851}</Project>
+      <Name>Discuz.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Discuz.Common\Discuz.Common.csproj">
+      <Project>{6A0EC5BD-742F-431D-A9EC-5C0342B2A76A}</Project>
+      <Name>Discuz.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Discuz.Config\Discuz.Config.csproj">
+      <Project>{F6A5F6C1-BD11-441D-B956-3BF52AEED890}</Project>
+      <Name>Discuz.Config</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Discuz.Data\Discuz.Data.csproj">
+      <Project>{CAA860C2-28D3-4D1B-8D7B-3A83C94DAA65}</Project>
+      <Name>Discuz.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Discuz.Entity\Discuz.Entity.csproj">
+      <Project>{41156C65-96B0-4026-A4FF-94CC299ABCAB}</Project>
+      <Name>Discuz.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Memcached\StringMessages.resx">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config\dbsnap.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="config\entlib.config" />
+    <None Include="config\memcached.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

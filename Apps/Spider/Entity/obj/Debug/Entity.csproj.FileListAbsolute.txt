@@ -1,0 +1,25 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Entity\bin\Debug\Entity.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Entity\bin\Debug\Entity.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Entity\obj\Debug\Entity.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Entity\obj\Debug\Entity.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Entity\bin\Debug\Entity.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Entity\bin\Debug\Entity.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Entity\obj\Debug\Entity.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Entity\obj\Debug\Entity.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Entity\bin\Debug\Entity.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Entity\bin\Debug\Entity.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Entity\obj\Debug\Entity.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Entity\obj\Debug\Entity.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\bin\Debug\Entity.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\bin\Debug\Entity.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\obj\Debug\Entity.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\obj\Debug\Entity.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\bin\Debug\Entity.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\bin\Debug\Entity.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\obj\Debug\Entity.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Entity\obj\Debug\Entity.pdb

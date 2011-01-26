@@ -1,0 +1,108 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Kernal.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Kernal.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Entity.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Entity.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\obj\Debug\Kernal.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\obj\Debug\Kernal.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Forum.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Data.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Entity.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Config.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Common.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Plugin.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Cache.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Data.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Entity.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Config.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Common.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Plugin.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Cache.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spinder\Kernal\bin\Debug\Discuz.Forum.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\obj\Debug\ResolveAssemblyReference.cache
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\obj\Debug\Kernal.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Kernal.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Kernal.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Forum.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Entity.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Data.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Entity.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Config.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Common.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Plugin.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Cache.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Newtonsoft.Json.dll
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Data.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Entity.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Entity.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Config.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Common.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Plugin.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Cache.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\bin\Debug\Discuz.Forum.pdb
+D:\Form_Svn\3\Discuz.Plugin\Spinder\Kernal\obj\Debug\Kernal.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Kernal.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Kernal.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Forum.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Entity.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Data.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Entity.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Config.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Common.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Plugin.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Cache.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Newtonsoft.Json.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Data.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Entity.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Entity.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Config.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Common.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Plugin.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Cache.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Forum.pdb
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\obj\Debug\ResolveAssemblyReference.cache
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\obj\Debug\Kernal.dll
+D:\Form_Svn\3\Discuz.Web\plugin\Spinder\Kernal\obj\Debug\Kernal.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Kernal.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Kernal.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Entity.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Data.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Entity.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Config.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Common.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Plugin.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Cache.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Newtonsoft.Json.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Data.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Entity.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Entity.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Config.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Common.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Plugin.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Cache.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Forum.pdb
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\obj\Debug\ResolveAssemblyReference.cache
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\obj\Debug\Kernal.dll
+C:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\obj\Debug\Kernal.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Kernal.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Kernal.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Entity.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Data.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Entity.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Config.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Common.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Plugin.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Cache.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Newtonsoft.Json.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Data.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Entity.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Entity.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Config.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Common.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Plugin.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Cache.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\bin\Debug\Discuz.Forum.pdb
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\obj\Debug\ResolveAssemblyReference.cache
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\obj\Debug\Kernal.dll
+D:\Forum_Svn\3\Discuz.Web\plugin\Spinder\Kernal\obj\Debug\Kernal.pdb
